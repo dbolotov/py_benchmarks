@@ -1,2 +1,3 @@
-py_benchmarks
-=============
+###Benchmarks in ipython
+
+Benchmarking bits of code.
